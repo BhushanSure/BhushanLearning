@@ -9,4 +9,4 @@ SOURCES += \
         main.cpp
 
 DISTFILES += \
-    Thread_Intro.txt
+    Thread_Joinable.txt
