@@ -22,10 +22,10 @@ Window {
         MouseArea {
             anchors.fill: parent
             onClicked: {
-               //console.log("Hello there")
-               // Utilities1.greeting()
+                //console.log("Hello there")
+                Utilities1.greeting()
 
-              //  console.log("Our ages combined yield :" + Utilities1.add(33,17))
+                //  console.log("Our ages combined yield :" + Utilities1.add(33,17))
                 console.log("The difference of 50 and 33 is :"+Utilities1.substract(50,33))
             }
 

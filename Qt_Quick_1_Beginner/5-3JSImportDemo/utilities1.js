@@ -3,6 +3,7 @@ Qt.include("utilities3.js")
 
 function greeting()
 {
+    console.log("Test----->",substract(3,2))
     console.log("Hello there from external JS file")
 }
 
